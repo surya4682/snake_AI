@@ -17,5 +17,3 @@ You can install the dependencies by running:
 ```bash
 pip install -r requirements.txt
 
-```bash
-python train_snake.py
