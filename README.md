@@ -14,9 +14,8 @@ To use this Snake game environment, you need to have the following dependencies 
 - Stable-Baselines3
 
 You can install the dependencies by running:
-
+```bash
 pip install -r requirements.txt
 
-You can train the snake by running:
 ```bash
 python train_snake.py
