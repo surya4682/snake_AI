@@ -1,0 +1,5 @@
+gymnasium
+pygame
+numpy
+opencv-python
+stable-baselines3
